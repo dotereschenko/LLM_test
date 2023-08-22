@@ -19,8 +19,10 @@ Here are the instructions for launching LLM testing application locally:
    $ pip install -r requirements.txt
    
    ```
+   
  
 2. Locally launch the streamlit localhost by using the following command:
+
  
 
 	``` python
