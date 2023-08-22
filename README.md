@@ -8,7 +8,7 @@
 - [Usage](#usage)
 - [Configuration](#configuration)
 
-##Installation
+## Installation
 Here are the instructions for launching LLM testing application locally:
 
 
@@ -17,7 +17,6 @@ Here are the instructions for launching LLM testing application locally:
 
    ``` shell
    $ pip install -r requirements.txt
-   
    ```
    
  
@@ -25,10 +24,9 @@ Here are the instructions for launching LLM testing application locally:
 
  
 
-	``` python
+``` python
  $ streamlit run streamlit-app.py
-
-	```
+```
 
 ## Usage
 The app can be used to conduct comparison tests for different LLM models. It can potentially help to approve LLM quality standards.
